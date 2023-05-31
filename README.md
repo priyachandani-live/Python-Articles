@@ -8,3 +8,6 @@ https://medium.com/@priyachandani1012/where-else-else-can-be-used-e2e1ed24f2fb
 
 ## You say: arguments or parameters?
 https://medium.com/@priyachandani1012/you-say-arguments-or-parameters-16237de33711
+
+## Let's understand: *args and **kwargs!
+https://medium.com/@priyachandani1012/lets-understand-args-and-kwargs-714229e445ef
