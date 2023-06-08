@@ -9,5 +9,8 @@ https://medium.com/@priyachandani1012/where-else-else-can-be-used-e2e1ed24f2fb
 ## You say: arguments or parameters?
 https://medium.com/@priyachandani1012/you-say-arguments-or-parameters-16237de33711
 
-## Let's understand: *args and **kwargs!
+## Let's understand: *args and **kwargs!(part 1/2)
 https://medium.com/@priyachandani1012/lets-understand-args-and-kwargs-714229e445ef
+
+## Part 2: Understanding **kwargs!(part 2/2)
+https://medium.com/@priyachandani1012/part-2-understanding-kwargs-b8488def5ee2
