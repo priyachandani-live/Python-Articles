@@ -14,3 +14,6 @@ https://medium.com/@priyachandani1012/lets-understand-args-and-kwargs-714229e445
 
 ## Part 2: Understanding **kwargs!(part 2/2)
 https://medium.com/@priyachandani1012/part-2-understanding-kwargs-b8488def5ee2
+
+## Playing with functions (part 1/3) 🤩
+https://medium.com/@priyachandani1012/playing-with-functions-part-1-3-79fdc759c07d
